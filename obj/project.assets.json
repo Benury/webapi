@@ -12082,11 +12082,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\work\\NetCore\\demo\\webapi\\webapi.csproj",
+      "projectUniqueName": "F:\\work\\webapi\\webapi.csproj",
       "projectName": "webapi",
-      "projectPath": "F:\\work\\NetCore\\demo\\webapi\\webapi.csproj",
+      "projectPath": "F:\\work\\webapi\\webapi.csproj",
       "packagesPath": "C:\\Users\\zouwq\\.nuget\\packages\\",
-      "outputPath": "F:\\work\\NetCore\\demo\\webapi\\obj\\",
+      "outputPath": "F:\\work\\webapi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
