@@ -12076,30 +12076,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\zouwq\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/root/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\work\\webapi\\webapi.csproj",
+      "projectUniqueName": "/home/dotnet/webapi/webapi.csproj",
       "projectName": "webapi",
-      "projectPath": "F:\\work\\webapi\\webapi.csproj",
-      "packagesPath": "C:\\Users\\zouwq\\.nuget\\packages\\",
-      "outputPath": "F:\\work\\webapi\\obj\\",
+      "projectPath": "/home/dotnet/webapi/webapi.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/home/dotnet/webapi/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\zouwq\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
