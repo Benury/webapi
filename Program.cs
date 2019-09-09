@@ -14,7 +14,16 @@ namespace webapi
     {
         public static void Main(string[] args)
         {
-            CreateWebHostBuilder(args).Build().Run();
+            // CreateWebHostBuilder(args).Build().Run();
+            var config = new ConfigurationBuilder().SetBasePath(Directory.GetCurrentDirectory())
+                 .AddJsonFile("host.json", optional: true)
+                 .Build();
+
+            WebHost.CreateDefaultBuilder(args)
+                .UseConfiguration(config)
+                .UseStartup<Startup>()
+                .Build()
+                .Run();
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>

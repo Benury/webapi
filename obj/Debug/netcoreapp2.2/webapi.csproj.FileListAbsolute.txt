@@ -40,3 +40,17 @@ F:/work/webapi/obj/Debug/netcoreapp2.2/webapi.RazorTargetAssemblyInfo.cache
 /home/dotnet/webapi/obj/Debug/netcoreapp2.2/webapi.RazorTargetAssemblyInfo.cache
 /home/dotnet/webapi/obj/Debug/netcoreapp2.2/webapi.dll
 /home/dotnet/webapi/obj/Debug/netcoreapp2.2/webapi.pdb
+D:\Files\2019\study\WebApiDemo\netcore\webapi\bin\Debug\netcoreapp2.2\webapi.deps.json
+D:\Files\2019\study\WebApiDemo\netcore\webapi\bin\Debug\netcoreapp2.2\webapi.runtimeconfig.json
+D:\Files\2019\study\WebApiDemo\netcore\webapi\bin\Debug\netcoreapp2.2\webapi.runtimeconfig.dev.json
+D:\Files\2019\study\WebApiDemo\netcore\webapi\bin\Debug\netcoreapp2.2\webapi.dll
+D:\Files\2019\study\WebApiDemo\netcore\webapi\bin\Debug\netcoreapp2.2\webapi.pdb
+D:\Files\2019\study\WebApiDemo\netcore\webapi\obj\Debug\netcoreapp2.2\webapi.csprojAssemblyReference.cache
+D:\Files\2019\study\WebApiDemo\netcore\webapi\obj\Debug\netcoreapp2.2\webapi.csproj.CoreCompileInputs.cache
+D:\Files\2019\study\WebApiDemo\netcore\webapi\obj\Debug\netcoreapp2.2\webapi.RazorAssemblyInfo.cache
+D:\Files\2019\study\WebApiDemo\netcore\webapi\obj\Debug\netcoreapp2.2\webapi.RazorAssemblyInfo.cs
+D:\Files\2019\study\WebApiDemo\netcore\webapi\obj\Debug\netcoreapp2.2\webapi.AssemblyInfoInputs.cache
+D:\Files\2019\study\WebApiDemo\netcore\webapi\obj\Debug\netcoreapp2.2\webapi.AssemblyInfo.cs
+D:\Files\2019\study\WebApiDemo\netcore\webapi\obj\Debug\netcoreapp2.2\webapi.RazorTargetAssemblyInfo.cache
+D:\Files\2019\study\WebApiDemo\netcore\webapi\obj\Debug\netcoreapp2.2\webapi.dll
+D:\Files\2019\study\WebApiDemo\netcore\webapi\obj\Debug\netcoreapp2.2\webapi.pdb
