@@ -19,11 +19,15 @@ namespace webapi
                  .AddJsonFile("host.json", optional: true)
                  .Build();
 
-            WebHost.CreateDefaultBuilder(args)
-                .UseConfiguration(config)
+            var host = new WebHostBuilder()
+                .UseUrls("http://0.0.0.0:3000")
+                .UseKestrel()
+                .UseContentRoot(Directory.GetCurrentDirectory())
+                .UseIISIntegration()
                 .UseStartup<Startup>()
-                .Build()
-                .Run();
+                .Build();
+
+            host.Run();
         }
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
