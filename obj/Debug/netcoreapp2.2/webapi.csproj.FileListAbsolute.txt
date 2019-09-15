@@ -54,3 +54,17 @@ D:\Files\2019\study\WebApiDemo\netcore\webapi\obj\Debug\netcoreapp2.2\webapi.Ass
 D:\Files\2019\study\WebApiDemo\netcore\webapi\obj\Debug\netcoreapp2.2\webapi.RazorTargetAssemblyInfo.cache
 D:\Files\2019\study\WebApiDemo\netcore\webapi\obj\Debug\netcoreapp2.2\webapi.dll
 D:\Files\2019\study\WebApiDemo\netcore\webapi\obj\Debug\netcoreapp2.2\webapi.pdb
+G:\创业\work\webapi\bin\Debug\netcoreapp2.2\webapi.deps.json
+G:\创业\work\webapi\bin\Debug\netcoreapp2.2\webapi.runtimeconfig.json
+G:\创业\work\webapi\bin\Debug\netcoreapp2.2\webapi.runtimeconfig.dev.json
+G:\创业\work\webapi\bin\Debug\netcoreapp2.2\webapi.dll
+G:\创业\work\webapi\bin\Debug\netcoreapp2.2\webapi.pdb
+G:\创业\work\webapi\obj\Debug\netcoreapp2.2\webapi.csproj.CoreCompileInputs.cache
+G:\创业\work\webapi\obj\Debug\netcoreapp2.2\webapi.RazorAssemblyInfo.cache
+G:\创业\work\webapi\obj\Debug\netcoreapp2.2\webapi.RazorAssemblyInfo.cs
+G:\创业\work\webapi\obj\Debug\netcoreapp2.2\webapi.AssemblyInfoInputs.cache
+G:\创业\work\webapi\obj\Debug\netcoreapp2.2\webapi.AssemblyInfo.cs
+G:\创业\work\webapi\obj\Debug\netcoreapp2.2\webapi.RazorTargetAssemblyInfo.cache
+G:\创业\work\webapi\obj\Debug\netcoreapp2.2\webapi.dll
+G:\创业\work\webapi\obj\Debug\netcoreapp2.2\webapi.pdb
+G:\创业\work\webapi\obj\Debug\netcoreapp2.2\webapi.csprojAssemblyReference.cache
