@@ -25,6 +25,17 @@ namespace TinyCSS_Webapi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            string cors = "http://localhost:3033";
+            services.AddCors(options =>
+            {
+                options.AddPolicy("CorsPolicy",
+                    builder => builder.AllowAnyOrigin() //允许所有站点跨越请求
+                      .AllowAnyMethod()                 //允许所有请求方法
+                      .AllowAnyHeader()                 //允许所有请求头
+                      .SetIsOriginAllowed(origin => true)
+                      .WithOrigins(cors).AllowAnyHeader().AllowAnyMethod().AllowCredentials()
+                    .Build());
+            });
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
@@ -40,7 +51,7 @@ namespace TinyCSS_Webapi
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
-
+            app.UseCors("CorsPolicy");
             app.UseHttpsRedirection();
             app.UseMvc();
         }

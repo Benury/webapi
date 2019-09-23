@@ -11,6 +11,7 @@ namespace TinyCSS_Webapi.Models
         public string userid { get; set; }
         public string type { get; set; }
         public string img { get; set; }
+        public byte[] file { get; set; }
         public string html { get; set; }
         public string css { get; set; }
         public string title { get; set; }
@@ -19,4 +20,5 @@ namespace TinyCSS_Webapi.Models
         public string ext2 { get; set; }
         public string ext3 { get; set; }
     }
+    
 }

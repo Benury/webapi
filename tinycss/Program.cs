@@ -15,9 +15,9 @@ namespace TinyCSS_Webapi
         public static IConfigurationRoot Configuration { get; set; }
         public static void Main(string[] args)
         {
-           
-            Config.dbconn = "server=localhost;uid=root;pwd=285733zou;port=3306;database=tinycss;sslmode=Preferred;";
 
+            //Config.dbconn = "server=localhost;uid=root;pwd=285733zou;port=3306;database=tinycss;sslmode=Preferred;";
+            Config.dbconn = "server=localhost;uid=root;pwd=285733zou;port=3306;database=tinycss;sslmode=Preferred;";
             var host = new WebHostBuilder()
                 .UseUrls("http://0.0.0.0:3000")
                 .UseKestrel()
