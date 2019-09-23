@@ -64,8 +64,12 @@ namespace TinyCSS_Webapi.Controllers
                 string fileName = Guid.NewGuid().ToString() + ".png";
                 dynamic type = (new Program()).GetType();
                 string imgTempPath = Path.GetDirectoryName(type.Assembly.Location) + "\\" + fileName;
-                Bitmap imgFile = Base64StringToImage(el.file);
-                imgFile.Save(imgTempPath,ImageFormat.Png);
+
+                //var photoBytes = Convert.FromBase64String(image);
+                System.IO.File.WriteAllBytes(imgTempPath, el.file);
+
+                //Bitmap imgFile = Base64StringToImage(el.file);
+                //imgFile.Save(imgTempPath,ImageFormat.Png);
                 //var stream = new FileStream(imgTempPath, FileMode.CreateNew);
                 //el.Files[0].CopyTo(stream);
                 //stream.Dispose();
