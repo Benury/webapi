@@ -12,3 +12,17 @@ G:\创业\work\TinyCSS\TinyCSS_Webapi\TinyCSS_Webapi\TinyCSS_Webapi\obj\Debug\ne
 G:\创业\work\TinyCSS\TinyCSS_Webapi\TinyCSS_Webapi\TinyCSS_Webapi\obj\Debug\netcoreapp2.2\TinyCSSWebapi.dll
 G:\创业\work\TinyCSS\TinyCSS_Webapi\TinyCSS_Webapi\TinyCSS_Webapi\obj\Debug\netcoreapp2.2\TinyCSSWebapi.pdb
 G:\创业\work\TinyCSS\TinyCSS_Webapi\TinyCSS_Webapi\TinyCSS_Webapi\obj\Debug\netcoreapp2.2\TinyCSSWebapi.csprojAssemblyReference.cache
+G:\创业\work\TinyCSS\webapi\webapi\TinyCSS_Webapi\bin\Debug\netcoreapp2.2\TinyCSSWebapi.deps.json
+G:\创业\work\TinyCSS\webapi\webapi\TinyCSS_Webapi\bin\Debug\netcoreapp2.2\TinyCSSWebapi.runtimeconfig.json
+G:\创业\work\TinyCSS\webapi\webapi\TinyCSS_Webapi\bin\Debug\netcoreapp2.2\TinyCSSWebapi.runtimeconfig.dev.json
+G:\创业\work\TinyCSS\webapi\webapi\TinyCSS_Webapi\bin\Debug\netcoreapp2.2\TinyCSSWebapi.dll
+G:\创业\work\TinyCSS\webapi\webapi\TinyCSS_Webapi\bin\Debug\netcoreapp2.2\TinyCSSWebapi.pdb
+G:\创业\work\TinyCSS\webapi\webapi\TinyCSS_Webapi\obj\Debug\netcoreapp2.2\TinyCSSWebapi.csprojResolveAssemblyReference.cache
+G:\创业\work\TinyCSS\webapi\webapi\TinyCSS_Webapi\obj\Debug\netcoreapp2.2\TinyCSSWebapi.csproj.CoreCompileInputs.cache
+G:\创业\work\TinyCSS\webapi\webapi\TinyCSS_Webapi\obj\Debug\netcoreapp2.2\TinyCSSWebapi.RazorAssemblyInfo.cache
+G:\创业\work\TinyCSS\webapi\webapi\TinyCSS_Webapi\obj\Debug\netcoreapp2.2\TinyCSSWebapi.RazorAssemblyInfo.cs
+G:\创业\work\TinyCSS\webapi\webapi\TinyCSS_Webapi\obj\Debug\netcoreapp2.2\TinyCSSWebapi.AssemblyInfoInputs.cache
+G:\创业\work\TinyCSS\webapi\webapi\TinyCSS_Webapi\obj\Debug\netcoreapp2.2\TinyCSSWebapi.AssemblyInfo.cs
+G:\创业\work\TinyCSS\webapi\webapi\TinyCSS_Webapi\obj\Debug\netcoreapp2.2\TinyCSSWebapi.RazorTargetAssemblyInfo.cache
+G:\创业\work\TinyCSS\webapi\webapi\TinyCSS_Webapi\obj\Debug\netcoreapp2.2\TinyCSSWebapi.dll
+G:\创业\work\TinyCSS\webapi\webapi\TinyCSS_Webapi\obj\Debug\netcoreapp2.2\TinyCSSWebapi.pdb
